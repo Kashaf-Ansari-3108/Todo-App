@@ -116,7 +116,7 @@ padding: 14px;
 
 
 @media screen and (max-width: 600px){
-    #todos{
+    #todos,.todo-list-container{
         width: 100%;
     }
 }
